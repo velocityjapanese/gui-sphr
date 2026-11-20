@@ -35,5 +35,42 @@
       }
     ],
     "timestamp": "2026-11-19T16:08:27.692932+00:00"
+  },
+  {
+    "video_file": "GuitarSpheric_15min_20261120_163833.mp4",
+    "youtube_id": "67aFxyu_YWg",
+    "youtube_url": "https://youtu.be/67aFxyu_YWg",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Guitar & Piano | Interlude in the Snowfall · Original Cinematic Music",
+    "piece_title": "Interlude in the Snowfall",
+    "seed": 2008535714,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Stillness"
+      },
+      {
+        "time": "02:57",
+        "title": "II. Tide"
+      },
+      {
+        "time": "05:34",
+        "title": "III. Dusk"
+      },
+      {
+        "time": "07:58",
+        "title": "IV. Cascade"
+      },
+      {
+        "time": "10:45",
+        "title": "V. Radiance"
+      },
+      {
+        "time": "12:51",
+        "title": "VI. Snowfall"
+      }
+    ],
+    "timestamp": "2026-11-20T16:54:46.758203+00:00"
   }
 ]
