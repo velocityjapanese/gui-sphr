@@ -183,5 +183,42 @@
       }
     ],
     "timestamp": "2026-11-23T20:01:29.813297+00:00"
+  },
+  {
+    "video_file": "GuitarSpheric_15min_20261124_191729.mp4",
+    "youtube_id": "fLie2zQ1a6Q",
+    "youtube_url": "https://youtu.be/fLie2zQ1a6Q",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Acoustic Guitar & Piano | Elegy upon the Snowfall · Original Cinematic (1080p HD)",
+    "piece_title": "Elegy upon the Snowfall",
+    "seed": 1153219499,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Tide"
+      },
+      {
+        "time": "02:57",
+        "title": "II. Horizon"
+      },
+      {
+        "time": "05:34",
+        "title": "III. Reverie"
+      },
+      {
+        "time": "07:58",
+        "title": "IV. Cascade"
+      },
+      {
+        "time": "10:45",
+        "title": "V. Drift"
+      },
+      {
+        "time": "12:51",
+        "title": "VI. Embers"
+      }
+    ],
+    "timestamp": "2026-11-24T19:37:08.535048+00:00"
   }
 ]
