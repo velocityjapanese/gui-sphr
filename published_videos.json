@@ -257,5 +257,42 @@
       }
     ],
     "timestamp": "2026-11-25T18:39:43.411139+00:00"
+  },
+  {
+    "video_file": "GuitarSpheric_15min_20261126_180305.mp4",
+    "youtube_id": "QgtxNVjpYME",
+    "youtube_url": "https://youtu.be/QgtxNVjpYME",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Acoustic Guitar & Piano | Melodie of the Fallen Snow · Original Cinematic (1080p HD)",
+    "piece_title": "Melodie of the Fallen Snow",
+    "seed": 1377012885,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Stillness"
+      },
+      {
+        "time": "02:46",
+        "title": "II. Reverie"
+      },
+      {
+        "time": "05:29",
+        "title": "III. Drift"
+      },
+      {
+        "time": "07:59",
+        "title": "IV. Horizon"
+      },
+      {
+        "time": "10:50",
+        "title": "V. Dusk"
+      },
+      {
+        "time": "13:03",
+        "title": "VI. Tide"
+      }
+    ],
+    "timestamp": "2026-11-26T18:17:06.967926+00:00"
   }
 ]
