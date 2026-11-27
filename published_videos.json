@@ -294,5 +294,42 @@
       }
     ],
     "timestamp": "2026-11-26T18:17:06.967926+00:00"
+  },
+  {
+    "video_file": "GuitarSpheric_15min_20261127_174716.mp4",
+    "youtube_id": "Svj6tOx4Uxs",
+    "youtube_url": "https://youtu.be/Svj6tOx4Uxs",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Acoustic Guitar & Piano | Elegy for the Starless Sea · Original Cinematic (1080p HD)",
+    "piece_title": "Elegy for the Starless Sea",
+    "seed": 806847738,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Snowfall"
+      },
+      {
+        "time": "02:50",
+        "title": "II. Awakening"
+      },
+      {
+        "time": "05:35",
+        "title": "III. Cascade"
+      },
+      {
+        "time": "08:06",
+        "title": "IV. Stillness"
+      },
+      {
+        "time": "11:01",
+        "title": "V. Embers"
+      },
+      {
+        "time": "13:13",
+        "title": "VI. Horizon"
+      }
+    ],
+    "timestamp": "2026-11-27T18:01:55.403083+00:00"
   }
 ]
